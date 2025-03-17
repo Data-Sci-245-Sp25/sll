@@ -16,6 +16,12 @@ website:
         text: Background Information
       - href: aim.qmd
         text: Aim of Research
+      - href: methods.qmd
+        text: Methods
+      - href: findings.qmd
+        text: Findings
+      - href: conclusion.qmd
+        text: Conclusions
 
 format:
   html:
