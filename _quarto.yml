@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Cancer Deaths 2013-2023 Multanoma County"
+  title: "Cancer Deaths 2013-2023 Multnomah County"
   search: false
   sidebar:
     style: "docked"
