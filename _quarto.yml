@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: slate
     css: style.css
     toc: true
     code-fold: true
