@@ -12,6 +12,10 @@ website:
         text: Home
       - href: abstract.qmd #person B
         text: Abstract
+      - href: background.qmd
+        text: Background Information
+      - href: aim.qmd
+        text: Aim of Research
 
 format:
   html:
