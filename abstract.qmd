@@ -1,1 +1,3 @@
-Abstract
+# Abstract
+
+This project was completed using data from Multnomah County on cancer deaths. We selected ethnicity and race as our variables of interest because they are important to keep in mind when considering other factors that are more directly related to cancer mortality—such as geography and economic status. People of color have been discriminated against throughout the history of the Multnomah County area and thus this project aims to center those who have long been considered invisible here.
