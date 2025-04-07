@@ -17,7 +17,7 @@ website:
       - href: aim.qmd
         text: Aim of Research #Shubhika
       - href: methods.qmd
-        text: Methods
+        text: Methods #Lily
       - href: findings.qmd
         text: Findings
       - href: conclusion.qmd
