@@ -13,9 +13,9 @@ website:
       - href: abstract.qmd #Lauren
         text: Abstract
       - href: background.qmd
-        text: Background Information
+        text: Background Information #Lauren
       - href: aim.qmd
-        text: Aim of Research
+        text: Aim of Research #Shubhika
       - href: methods.qmd
         text: Methods
       - href: findings.qmd
