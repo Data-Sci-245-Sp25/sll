@@ -1,22 +1,22 @@
 [
   {
+    "objectID": "aim.html",
+    "href": "aim.html",
+    "title": "Aim of Research",
+    "section": "",
+    "text": "The aim of this research is to investigate how the top three types of cancer-related deaths have varied across different racial and ethnic groups in Multnomah County over the past ten years. By identifying patterns and disparities in cancer mortality, this study seeks to understand how structural inequalities, such as access to healthcare and historical discrimination, may contribute to unequal health outcomes. We have centered our core variables to race and ethnicity to be able to move beyond surface-level data and instead focus on the lived experiences of communities that have often been excluded from dominant health narratives. Ultimately, this research aims to inform more inclusive public health strategies and contribute to ongoing efforts toward health equity and justice.",
+    "crumbs": [
+      "Aim of Research"
+    ]
+  },
+  {
     "objectID": "abstract.html",
     "href": "abstract.html",
     "title": "Abstract",
     "section": "",
-    "text": "Abstract\nThis project was completed using data from Multnomah County regarding cancer deaths. We selected ethnicity and race as our variables of interest because they are important to keep in mind when considering other factors that are more directly related to cancer mortality—such as geography and economic status. People of color have been discriminated against throughout the history of the Multnomah County area and thus this project aims to render visible those who have long been considered easy to overlook.",
+    "text": "Abstract\nThis project analyzes cancer mortality data from Multnomah County, focusing on how the top three causes of cancer-related deaths have varied across racial and ethnic groups over the past ten years. Race and ethnicity were selected as key variables due to their deep connections with structural factors such as geographic location, access to care, and economic status. Historically, communities of color in Multnomah County have been disproportionately impacted by health inequities stemming from systemic discrimination. By centering these populations in our analysis, this research aims to bring visibility to patterns of disparity that are often underrepresented in public health data. The findings from this study are intended to support the Multnomah County Health Department in developing more informed, equitable, and community-responsive health policies moving forward.",
     "crumbs": [
       "Abstract"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "How do the top 3 types of cancer death vary among each race and ethnicity over the past 10 years?",
-    "section": "",
-    "text": "How do the top 3 types of cancer death vary among each race and ethnicity over the past 10 years?\nLily, Lauren, Shubhika in collaboration with Multnomah County Health Department",
-    "crumbs": [
-      "Home"
     ]
   }
 ]
