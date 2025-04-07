@@ -25,7 +25,7 @@ website:
 
 format:
   html:
-    theme: slate
+    theme: superhero
     css: style.css
     toc: true
     code-fold: true
