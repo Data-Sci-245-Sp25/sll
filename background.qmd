@@ -1,5 +1,13 @@
+<<<<<<< HEAD
+Cancer remains one of the leading causes of death in the United States, with significant disparities in outcomes across racial and ethnic groups ([CDC 2023](https://www.cdc.gov/nchs/hus/topics/cancer-deaths.html)). While overall cancer mortality has started to decline since the turn of the century, these improvements have not been equitably distributed.
+
+![](images/clipboard-1274355408.png)
+
+For example, Black Americans experience the highest cancer death rates, particularly for prostate and colon/rectal cancers ([CDC 2025](https://www.cdc.gov/cancer/health-equity/african-american.html)). Additionally, while Native American and Alaska Native populations have seen increasing mortality rates for some cancer types—particularly lung, colo-rectal, liver, stomach, and kidney cancers ([Jack and Mitchell 2023](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)).
+
+These disparities are shaped by a structural racism and a multitude of environmental disparities, including unequal access to timely care and differences in insurance coverage ([Jack and Mitchell](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)).
+=======
 Cancer remains one of the leading causes of death in the United States, with significant disparities in outcomes across racial and ethnic groups ([CDC 2023](https://www.cdc.gov/nchs/hus/topics/cancer-deaths.htm)). While overall cancer mortality has started to decline since the turn of the century, these improvements have not been equitably distributed.
->>>>>>> 346a4e7006ca758ee7fba08e2f57551c03b56db3
 
 ![](images/clipboard-1274355408.png)
 
