@@ -1,4 +1,5 @@
 Cancer remains one of the leading causes of death in the United States, with significant disparities in outcomes across racial and ethnic groups ([CDC 2023](https://www.cdc.gov/nchs/hus/topics/cancer-deaths.htm)). While overall cancer mortality has started to decline since the turn of the century, these improvements have not been equitably distributed.
+>>>>>>> 346a4e7006ca758ee7fba08e2f57551c03b56db3
 
 ![](images/clipboard-1274355408.png)
 
