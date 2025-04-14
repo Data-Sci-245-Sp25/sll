@@ -6,4 +6,4 @@ editor: visual
 
 Are certain types of cancer more prevalent or deadly in specific racial or ethnic populations?
 
-What are the trends in cancer mortality over the past decade across these groups?
+What are the trends in cancer mortality over the past decade across these groups??

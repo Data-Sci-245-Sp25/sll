@@ -1,3 +1,5 @@
+#Background
+
 Cancer remains one of the leading causes of death in the United States, with significant disparities in outcomes across racial and ethnic groups. While overall cancer mortality has started to decline since the turn of the century, these improvements have not been equitably distributed. For example, Black Americans experience the highest cancer death rates, particularly for prostate and colorectal cancers, while Native American and Alaska Native populations have seen increasing mortality rates for some cancer types—particularly lung, colo-rectal, liver, stomach, and kidney cancers.
 
 These disparities are shaped by a structural racism and a multitude of environmental disparities, including unequal access to timely care and differences in insurance coverage.
