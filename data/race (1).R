@@ -193,8 +193,6 @@ hawSummary<-deaths |>
 write_csv(hawSummary, "hawSummary.csv")
 
 
-
-
 ##### query and merge population data from tidycensus
 install.packages("tidycensus")
 #install.packages("tidyverse")
@@ -211,9 +209,6 @@ apiKey="69991184bb877aec0620418b2c2a16001401acf4"
 census_api_key(apiKey, install = TRUE, overwrite=TRUE)
 
 readRenviron("~/.Renviron")
-
-
-
 
 
 # Define the years you want to analyze
@@ -257,8 +252,6 @@ pop_data_wide <- pop_data_all_years %>%
   )
 
 ### attempting again, to get sex vars
-
-
 
 # Set up variables
 years <- 2014:2023
@@ -329,6 +322,7 @@ write_csv(acs_5yr_all, "acs5_10yearData.csv")
 #  left_join(deathsByFips2022, by = c("GEOID" = "fips")) |>
 #  mutate(rate_per_100k = (deaths / total_populationE) * 100000)
 
+
 popAsian<-acs_5yr_all |>
   filter(variable=="Asian alone")
 
@@ -336,8 +330,6 @@ popAsian<-acs_5yr_all |>
 asianRates<- asianSummary |>
   left_join(popAsian, by=c("ddodyear"="year")) |>
   mutate(rate_per_100k = (deaths / estimate) * 100000)
-
-
 
 ggplot(asianRates, mapping=aes(x=ddodyear, y=rate_per_100k, color=diseaseSite)) +
   geom_line()
