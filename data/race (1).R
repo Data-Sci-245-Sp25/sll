@@ -334,8 +334,8 @@ asianRates<- asianSummary |>
 ggplot(asianRates, mapping=aes(x=ddodyear, y=rate_per_100k, color=diseaseSite)) +
   geom_line()
 
-
 ggsave("test.jpg")
+
 
 
 
