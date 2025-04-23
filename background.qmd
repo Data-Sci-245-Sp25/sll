@@ -1,3 +1,10 @@
+---
+title: "Background Information"
+format: html
+---
+
+
+
 Cancer remains one of the leading causes of death in the United States, with significant disparities in outcomes across racial and ethnic groups ([CDC 2023](https://www.cdc.gov/nchs/hus/topics/cancer-deaths.html)). While overall cancer mortality has declined since the turn of the century, these improvements have not been equally distributed across populations, creating a critical publish health equity challenge.
 
 These disparities are shaped by structural racism and a multitude of socioeconomic and environmental factors, including unequal access to timely care and differences in insurance coverage ([Jack and Mitchell 2023](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)). Historical patterns of discrimination have created enduring disparities that manifest in cancer screening rates, stage at diagnosis, treatment quality, and survival outcomes.
