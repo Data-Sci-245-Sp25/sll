@@ -6,32 +6,20 @@ Black Americans experience the highest overall cancer death rates among all raci
 
 Native American and Alaska Native populations have seen increasing mortality rates for several cancer types, particularly lung, colorectal, liver, stomach, and kidney cancers ([Jack and Mitchell](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)). Indigenous populations often face additional barriers to care, namely geographic isolation and a lack of specialized cancer treatment centers that utilize culturally appropriate care models.
 
-<<<<<<< HEAD
+
 [![Graph from the CDC's "Cancer Deaths" page](images/clipboard-1274355408.png)](https://www.cdc.gov/nchs/hus/topics/cancer-deaths.htm#featured-charts)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-For example, Black Americans experience the highest cancer death rates, particularly for prostate and colo-rectal cancers ([CDC 2025] (https://www.cdc.gov/cancer/health-equity/african-american.html)). Additionally, while Native American and Alaska Native populations have seen increasing mortality rates for some cancer types—particularly lung, colo-rectal, liver, stomach, and kidney cancers ([Jack and Mitchell 2023](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)).
-=======
-For example, Black Americans experience the highest cancer death rates, particularly for prostate and colo-rectal cancers (\[CDC 2025\] (https://www.cdc.gov/cancer/health-equity/african-american.html)). Additionally, while Native American and Alaska Native populations have seen increasing mortality rates for some cancer types—particularly lung, colo-rectal, liver, stomach, and kidney cancers ([Jack and Mitchell 2023](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.pdf)).
->>>>>>> 0720180b1632805e418154fe9a6667167f2b156c
-=======
-Hispanic and Latino populations show distinctive cancer patterns nationally, with lower incidence rates for many common cancers but often more advanced stages of cancer at diagnosis ([Yanez et al 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4943845/)). This severely influences the survival rates of cancer for Hispanic people; an increasingly bleak fact when paired with the fact that about 30% of Hispanics will be diagnosed with cancer within their lifetime.
 
-Despite growing awareness of the relationship between cancer deaths and race/ethnicity, the public health literature remains limited in its exploration of how these disparities vary at local levels. Regional differences in healthcare infrastructure, environmental exposures, cultural factors, and demographic composition work together to create unique patterns of cancer disparities that may not be captured in nationally aggregated analyses.
->>>>>>> 5ec9f92f9c3cde44f202c4d0b29477de5941264a
 
 Place-based disparities interact with racial and ethnic variables in complex ways that necessitate more granular analysis to comprehend and address. In other words, understanding locale-specific patterns is essential for developing effective public health interventions.
 
-<<<<<<< HEAD
-These disparities are shaped by a structural racism and a multitude of environmental disparities, including unequal access to timely care and differences in insurance coverage ([Jack and Mitchell](https://www.cdc.gov/pcd/collections/pdf/racism_is_a_public_health_crisis_combating_racism_508.)).
->>>>>>> f05288cb619345ede5915c0ee513c4ac66fcef34
+
 
 Despite growing awareness of the relationship between cancer deaths and race, the public health literature remains limited in its exploration of how these disparities vary at local levels. This research aims to examine the relationship between race/ethnicity and cancer-related deaths in the Multnomah county, with the goal of identifying persistent gaps in outcomes.
 
 Recent trends in national cancer rates have revealed that the cases of cancer in people with a white, non-Hispanic identity have increased, however this does *not* reflect the mortality rate of these instances.
 
 [![Graph from the CDC's "History of Cancer" page](images/history_of_cancer.png)](https://www.cdc.gov/nchs/hus/topics/history-of-cancer.htm)
-=======
+
 This study aims to examine the relationship between race/ethnicity and cancer-related deaths in Multnomah County, Oregon, to identify persistent gaps in outcomes. This approach, focusing on county-level race/ethnicity data, provides valuable insights for healthcare providers, public health officials, and community organizations so we can achieve better cancer health equity in Multnomah County.
->>>>>>> 5ec9f92f9c3cde44f202c4d0b29477de5941264a
+
